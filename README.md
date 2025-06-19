@@ -11,7 +11,7 @@ I’m an IT graduate, full-stack developer, and tech enthusiast with 14 years of
 - Strong troubleshooting skills from the field and a constant drive to keep learning
 
 ### 📄 Resume
-- [Download My Resume](./Broc_Vogel_Resume.pdf)
+- [Download My Resume](./Broc_Vogel_IT_Resume.pdf)
 
 ### 📫 Let’s Connect
 - **LinkedIn:** [linkedin.com/in/bcvogel](https://www.linkedin.com/in/bcvogel)  
