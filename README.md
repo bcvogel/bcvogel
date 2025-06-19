@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Broc Vogel
 
-<!--
-**bcvogel/bcvogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT graduate, full-stack developer, and tech enthusiast with 14 years of experience as a field technician at AT&T. I’ve got a strong background in networking, hands-on experience with Linux systems, and I’ve worked with virtual environments using VMware and VirtualBox. I’m also comfortable writing Bash scripts and building full-stack apps from the ground up.
 
-Here are some ideas to get you started:
+### 🚀 What I’ve Been Working On
+- **[MarketProj](https://github.com/bcvogel/MarketProj)** — A stock trading simulation platform with real-time pricing, user authentication, and admin tools. Built with a modern web stack and designed for realistic trading practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Bring
+- Deep understanding of IT infrastructure and computer science fundamentals  
+- Experience with web development, backend APIs, databases, scripting, and DevOps workflows  
+- Strong troubleshooting skills from the field and a constant drive to keep learning
+
+### 📄 Resume
+- [Download My Resume](./Broc_Vogel_Resume.pdf)
+
+### 📫 Let’s Connect
+- **LinkedIn:** [linkedin.com/in/bcvogel](https://www.linkedin.com/in/bcvogel)  
+- **Instagram:** [instagram.com/Tables3501](https://www.instagram.com/Tables3501)
+
+Thanks for checking out my page!
