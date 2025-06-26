@@ -5,6 +5,11 @@ I’m an IT graduate, full-stack developer, and tech enthusiast with 14 years of
 ### 🚀 What I’ve Been Working On
 - **[MarketProj](https://github.com/bcvogel/MarketProj)** — A stock trading simulation platform with real-time pricing, user authentication, and admin tools. Built with a modern web stack and designed for realistic trading practice.
 
+Want to see the app in action?
+
+🎥 [Watch the Stocks For Us Demo on Google Drive](https://drive.google.com/file/d/1x3jGzJuOonJ1l3ORQC89pAvxNH8Akk_-/view?usp=drive_link)
+
+
 ### 🛠️ What I Bring
 - Deep understanding of IT infrastructure and computer science fundamentals  
 - Experience with web development, backend APIs, databases, scripting, and DevOps workflows  
