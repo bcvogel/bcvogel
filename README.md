@@ -12,6 +12,8 @@ I’m an IT graduate, full-stack developer, and tech enthusiast with 14 years of
 
 ### 📄 Resume
 - [Download My Resume](./Broc_Vogel_IT_Resume.pdf)
+- [View My Unofficial Transcript (ASU)](./ASUtranscript_noID.pdf)
+
 
 ### 📫 Let’s Connect
 - **LinkedIn:** [linkedin.com/in/bcvogel](https://www.linkedin.com/in/bcvogel)  
